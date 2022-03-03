@@ -10,7 +10,8 @@ How to Use the Code?
 2. Run the CreateIndex2.ipynb code from the same folder containing dataset_new
 3. Inverted_Index and Positional_Index will be created which can be used in Q1.ipynb and Q2.ipynb
 4. Creationg of Indexes will take around 10 minutes.
-5. Alternatively, you can use already created indexes inverted_index.txt and positional_index.txt by extracting those files from indexes.zip
+5. Alternatively, you can use already created indexes inverted_index.txt and positional_index.txt by extracting those files from indexes.zip  
+
 Q1.ipynb (Boolean Retrieval)  
 ASSUMPTION : NOT operations will be processed first, OR operations will be processed second, AND operations will be processed third at last.  
 It expects a number N i.e the number of queries  
