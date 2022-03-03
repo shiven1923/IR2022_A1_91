@@ -9,7 +9,7 @@ How to Use the Code?
 1. Extract the corpus from humor,hist,media,food.zip into folder called dataset_new
 2. Run the CreateIndex2.ipynb code from the same folder containing dataset_new
 3. Inverted_Index and Positional_Index will be created which can be used in Q1.ipynb and Q2.ipynb
-4. Creationg of Indexes will take around 10 minutes.
+4. Creation of Indexes will take around 10 minutes.
 5. Alternatively, you can use already created indexes inverted_index.txt and positional_index.txt by extracting those files from indexes.zip  
 
 Q1.ipynb (Boolean Retrieval)  
